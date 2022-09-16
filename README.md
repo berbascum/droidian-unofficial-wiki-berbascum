@@ -1,2 +1,6 @@
 # droidian-unofficial-wiki-berbascum
-Wiki, tools and tips for Droidian.
+### Català:
+Wiki, eines i consells per a Droidian OS: Linux Debian Bookworm per a dispositius Android.
+
+### English:
+Wiki, tools and tips for Droidian OS: Linux Debian Bookworm on Android devices.
